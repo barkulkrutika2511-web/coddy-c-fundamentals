@@ -1,0 +1,30 @@
+Problem Statement:
+
+Set the [age] variable to 16. Then, create a program that checks whether the person is old enough to drive (age 18 or older). Store the result (either [0] for false or [1] for true) in a variable called [canDrive], and print both the age and result.
+
+
+Syntax:
+
+
+#include <stdio.h>
+
+int main()
+
+{
+
+  // Your code here: replace the zero with the age the task asks for
+  
+  int age = 0;
+
+  
+  // Your code here: replace the zero with the comparison that decides if the person is old enough to drive
+  
+  int canDrive = 0;
+
+
+  printf("Age: %d\n", age);
+  printf("Can drive? %d\n", canDrive);
+
+  return 0;
+
+}
