@@ -1,0 +1,15 @@
+1. Problem Statement
+You are given a program. Store the value 120 in the variable named price.
+
+
+2. Given Code (Before Modification)
+
+
+1. #include <stdio.h>
+2. 
+3. int main() {
+4.     // Change the 0 below to the  correct value
+5.     int price = 0;
+6. 
+7.     return 0;
+8. }
