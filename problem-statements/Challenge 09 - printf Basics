@@ -1,0 +1,33 @@
+Problem Statement:
+
+Write a C program that does the following:
+
+1. Declare an integer variable [year] and initialize it with the value 2023.
+
+2. Declare a float variable [pi] and initialize it with the value 3.1459.
+
+3. Use [printf()] to print these values in the following format:
+
+[The current year is 2023
+The value of pi is 3.141590]
+
+Make sure to use format specifiers for each variable type. Note that [%f] prints float values with 6 decimal places by default, so [3.14159] will be displayed as [3.141590].
+
+
+Syntax:
+
+
+#include <stdio.h>
+
+int main() 
+{
+   
+    // Declare and initialize your variables here
+    
+
+    // Your printf statements here
+    
+
+    return 0;
+
+}
