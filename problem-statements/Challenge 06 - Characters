@@ -1,0 +1,24 @@
+Problem Statement:
+
+Create a program that:
+
+1. Declares a character variable named [symbol].
+
+2. Assign the character '@' to this variable.
+
+3. Prints the massage "The symbol is: @" where @ is the value of your variable.
+
+
+Syntax:
+
+
+#include <stdio.h>
+
+int main()
+
+{
+    // Write your code here
+    
+
+    return 0;
+}
