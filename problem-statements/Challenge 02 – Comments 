@@ -1,6 +1,26 @@
 Problem Statement:
-Turn the line that prints Goodbye! into a comment so that only Hello, C! is printed.
+Turn the line that prints [Goodbye!] into a comment so that only [Hello, C!] is printed.
 
 Instructions:
-1.Add // before printf("Goodbye!\n");.On its line,so that line reads 
+
+1.Add // in front of [printf("Goodbye!\n");].On its line,so that line reads[// printf("Goodbye!\n");]
+
 2.Do not add or delete any lines.
+
+
+
+Syntax:
+
+
+1 #include <stdio.h>
+2 
+3 int main(){
+4   // Type your code below 
+5. // Add // in front of the Goodbye line       below. Don't type a new line.
+
+6.    printf("Goodbye!\n");
+7.    
+8.    printf("Hello , C!\n");
+9. 
+10.   return 0;
+11. }
