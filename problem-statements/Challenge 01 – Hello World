@@ -1,2 +1,19 @@
 Challenge: Use the code view to write a program that outputs:
 Hello, World!
+
+
+Syntax:
+
+
+1 #include <stdio.h>
+2
+3 int main(){
+4     printf(""); 
+5   // put the message between the quotes 
+6 }
+
+
+
+
+
+
