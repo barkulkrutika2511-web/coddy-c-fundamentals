@@ -1,0 +1,35 @@
+Problem Statement:
+
+Create a program that determines whether a person is eligible for a discount.
+
+1. Define an [age] variable and set it to 65.
+
+2. Define an [isMember] variable and set it to 0 (false).
+
+3. Create a boolean expression called [isEligible] that evaluates to true if either:
+   1. The person is a senior (age 65 or older), OR
+   2. The person is a member 
+
+4.Print the result of whether the person is eligible for a discount
+
+
+
+Syntax:
+
+
+#include <stdio.h>
+
+int main() 
+
+{
+    // Define the variables here
+
+
+    // Create the boolean expression here
+
+
+    // Print the result
+    printf("Eligible for discount? %d\n", isEligible);
+
+    return 0;
+}
