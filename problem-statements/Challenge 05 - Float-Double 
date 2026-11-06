@@ -1,0 +1,37 @@
+Problem Statement:
+
+Write a program that:
+  
+1.Declares a float variable named [celsius]
+
+2.Declares a double variable named [fahrenheit]
+
+3.Assigns the value 25.0 to [celsius]
+
+4.Converts celsius to fahrenheit using the formula: 
+[fahrenheit = (celsius * 9.0/5.0) + 32.0]
+
+5.Prints the result as
+  [25.0 degrees Celsius is equal to 77.0          degrees Fahrenheit]
+
+Make sure to display precisely one decimal place in your output. The spelling of Celsius and Fahrenheit must match exactly. 
+
+To print both variables in a single [printf],use [%.1f] as a placeholder for each number. Replace [celsius] and [fahrenheit] with your actual variable names:
+
+[printf("%.1f degrees Celsius is equal to %.1f degrees Fahrenheit\n", celsius, fahrenheit);]
+
+Here, the first [%.1f] will be replaced by the value of [celsius], and the second %.1f will be replaced by the value of [fahrenheit].The [\n] at the end moves the cursor to a new line.
+
+Syntax:
+
+
+1. #include <stdio.h>
+2. 
+3. int main() {
+4.     // Declare celsius and fahrenheit,  then convert here
+5.     
+6.    
+7.    printf("%.1f degrees Celsius is equal to %.1f degrees Fahrenheit\n", celsius, fahrenheit);
+8. 
+9.    return 0;
+10. }
