@@ -1,0 +1,6 @@
+Problem Statement:
+Turn the line that prints Goodbye! into a comment so that only Hello, C! is printed.
+
+Instructions:
+1.Add // before printf("Goodbye!\n");.On its line,so that line reads 
+2.Do not add or delete any lines.
