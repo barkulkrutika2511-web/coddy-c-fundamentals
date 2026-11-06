@@ -7,3 +7,23 @@ The variable and printed lines are already written for you.
 Your output should look like this:
   
 The value is: 50
+
+
+Syntax:
+
+1. #include <stdio.h>
+2. 
+3. int main()
+4. {
+5.    // An integer variable, it starts at 0
+6.     int number = 0;
+7.
+8.    // Your turn: Assign the value 50 to it, on the line below
+9.
+10.
+11.   // Already written for you, this line prints the variable 
+12. 
+13.   printf("The value is: %d\n", number);
+14.
+15.   return 0;
+16. }
